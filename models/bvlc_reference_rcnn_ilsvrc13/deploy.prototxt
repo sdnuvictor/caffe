@@ -1,4 +1,4 @@
-name: "R-CNN-ilsvrc133"
+name: "R-CNN-ilsvrc13"
 layer {
   name: "data"
   type: "Input"
